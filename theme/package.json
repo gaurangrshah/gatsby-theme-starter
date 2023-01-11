@@ -29,7 +29,7 @@
     "gatsby-plugin-theme-ui": "^0.2.2",
     "gatsby-remark-prismjs": "^3.3.3",
     "gatsby-source-filesystem": "^2.1.5",
-    "gatsby-transformer-remark": "^2.6.6",
+    "gatsby-transformer-remark": "^5.25.1",
     "lodash.merge": "^4.6.2",
     "prismjs": "^1.16.0",
     "remark-emoji": "^2.0.2",
